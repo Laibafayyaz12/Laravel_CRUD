@@ -64,3 +64,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Author
+Laiba fayyaz
+COSC231101014
+## DEMO VIDEO
+
+
+## Project Detail
+
+Project Title: Product Management System
+
+## Description:
+Complete CRUD project for managing products.
+
+## Functionalities:
+
+Add, Update, and Delete Products
+Show Products in a Table
+Save the Data in Database
