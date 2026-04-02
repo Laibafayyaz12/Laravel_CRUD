@@ -70,6 +70,8 @@ Laiba fayyaz
 COSC231101014
 ## DEMO VIDEO
 
+https://drive.google.com/file/d/1UWHasltRhiiZHNVpBrQeRtHmfSteQpEH/view?usp=drivesdk
+
 <img width="1366" height="768" alt="product" src="https://github.com/user-attachments/assets/ff787559-ab74-4099-b2c6-ce2603236aef" />
 
 <img width="1366" height="768" alt="edit" src="https://github.com/user-attachments/assets/4252ed09-2394-4f81-b3c9-3a047f210c99" />
