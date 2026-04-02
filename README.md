@@ -73,7 +73,7 @@ COSC231101014
 <img width="1366" height="768" alt="product" src="https://github.com/user-attachments/assets/ff787559-ab74-4099-b2c6-ce2603236aef" />
 
 <img width="1366" height="768" alt="edit" src="https://github.com/user-attachments/assets/4252ed09-2394-4f81-b3c9-3a047f210c99" />
-[RecordRTC-202632-jwlsajcrnr.webm](https://github.com/user-attachments/assets/34211d62-5fcd-4e3d-8561-d45fcc9571ed)
+
 
 
 ## Project Detail
